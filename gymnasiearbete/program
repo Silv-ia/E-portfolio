@@ -70,7 +70,7 @@ class Dancer // creates a class to keep all functions necessary
     }
 
 
-    void contValues(int vinkel, int takter) // decide direction and set start time.
+    void contValues(int vinkel, int takter) // decide direction and set start time for continuous servo
     // use 'takter'? can be longer and shorter...
     {
       
