@@ -11,7 +11,7 @@
 
 ### Universitetsprojekt:
 
-##### - Snake på PIC32 mikrokontroller. 
+##### - Snake spel på PIC32 mikrokontroller. 
 ###### Skrivet i C. Kommentarer anvisar vem som skrivit vilken del, (S) är av mig.
 
 ##### - Socket programmering i Java.
