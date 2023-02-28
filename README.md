@@ -17,3 +17,6 @@
 ##### - Socket programmering i Java.
 ###### En TCP klient som kan hantera olika servrar och en HTTP server som kan hantera flera klienter parallellt.
 ###### All kod är egenproducerad. 
+
+#### - Projektarbete i termin 4.
+###### Arbetat självständigt i grupp... Ansvarat för... Kod skriven i...
