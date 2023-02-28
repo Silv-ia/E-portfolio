@@ -4,7 +4,7 @@
 
 ### Gymnasiearbete:
 
-##### - Den dansande robotarmen Lilith. 
+##### - Mekanisk dansare: Den dansande robotarmen Lilith. 
 ###### Ett projekt där vi designade, konstruerade och programmerade en robotarm. Mitt ansvar var programmering. Skrivet i Arduino.
 ###### Skrivet själv, med hjälp av https://www.arduino.cc/reference/en/.
 
